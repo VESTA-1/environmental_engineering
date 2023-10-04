@@ -1,6 +1,8 @@
 matlab.mat
 __pycache__/
+.vscode/
 result/
 data/
 test.py
-data_process/
+# data_process/
+document/
